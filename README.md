@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://github.com/Kitakitina/Kitakitina/commit/211546965304558a0a5c1966f75385a991e49223" alt="Banner" />
+</p>
+
+
 <h1 align="center">Hi 👋, Camila Reyes</h1>
 <h3 align="center">Full Stack Developer - Aspiring QA Automation Engineer | Growing my skills one test at a time.</h3>
 
