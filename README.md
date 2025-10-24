@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kitakitina/Kitakitina/blob/211546965304558a0a5c1966f75385a991e49223/P%C3%BArpura%20Nubes%20Chica%20Gamer%20Banner%20para%20Twitch.png?raw=true" alt="Banner" />
+  <img src="https://github.com/Kitakitina/Kitakitina/blob/main/profileimg.png?raw=true" alt="Banner" />
 </p>
 
 <h3 align="center">Full Stack Developer - Aspiring QA Automation Engineer | Growing my skills one test at a time.</h3>
