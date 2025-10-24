@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kitakitina/Kitakitina/commit/211546965304558a0a5c1966f75385a991e49223" alt="Banner" />
+  <img src="Púrpura Nubes Chica Gamer Banner para Twitch.png" alt="Banner" />
 </p>
 
 
