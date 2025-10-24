@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Kitakitina/Kitakitina/blob/main/profileimg.png?raw=true" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Kitakitina/Kitakitina/refs/heads/main/profileimg.png" alt="Banner" />
 </p>
 
 <h3 align="center">Full Stack Developer - Aspiring QA Automation Engineer | Growing my skills one test at a time.</h3>
