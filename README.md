@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hi, I 'm Camila Reyes</h1>
+<h1 align="center">Hi 👋, Camila Reyes</h1>
 <h3 align="center">Full Stack Developer - Aspiring QA Automation Engineer | Growing my skills one test at a time.</h3>
 
 - 🌱 I’m currently learning **Selenium | API testing | Cucumber | Gherkin | JUnit | JMeter |**
