@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Kitakitina/Kitakitina/main/profileimg.png" />
 </p>
 
-<div style="border: 3px dashed #e9a7c9; padding: 20px; border-radius: 12px;">
+<div style="border: 3px dashed #e9a7c9; padding: 20px; border-radius: 12px;background-color: #fde9f4;">
 <h3 align="center">Full Stack Developer - Aspiring QA Automation Engineer | Growing my skills one test at a time.</h3>
 
 - 🌱 I’m currently learning **Selenium | API testing | Cucumber | Gherkin | JUnit | JMeter |**
