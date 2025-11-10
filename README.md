@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Selenium | API testing | Cucumber | Gherkin | JUnit | JMeter |**
 
-- 👯 I'm looking to collaborate as: **QA Automation** ---> [![Contrátame](https://img.shields.io/badge/📩_CONTRÁTAME-blue?style=for-the-badge)](mailto:camilaandre.reyesz@live.com)
+- 👯 I'm looking to collaborate as: **QA Automation** ---> [![Hire Me](https://img.shields.io/badge/📩_CONTRÁTAME-blue?style=for-the-badge)](mailto:camilaandre.reyesz@live.com)
 
 
 - 🤝 I collaborated on the development of the project : [ResiduosNoMás](https://github.com/residuos-nomas-generation)
