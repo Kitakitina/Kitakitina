@@ -11,15 +11,17 @@
 
 - 🤝 I collaborated on the development of the project : [ResiduosNoMás](https://github.com/residuos-nomas-generation)
 
-- 💬 Ask me about **Java | JavaScript | CSS | React | Spring Boot | MySQL |**
+- 💬 Ask me about : **Java | JavaScript | CSS | React | Spring Boot | MySQL |**
 
 - 📫 How to reach me **camilaandre.reyesz@live.com**
 
 - 📄 Know about my experiences [https://l1nk.dev/CV-camilareyes](https://l1nk.dev/CV-camilareyes)
 
-- ⚡ Fun fact **I’m a quick learner who enjoys experimenting and learning by doing.**
+- ⚡ Fun fact : I always wanted to be a programmer, but I was afraid. I studied another professional career related to the health field first, and then I left it to finally dedicate myself to my true calling : PROGRAMMING
 
-- 🎈 Hobbies: Crocheting | Videogame player | Books | Cooking |
+- ⭐ My main strength : **I’m a quick learner who enjoys experimenting and learning by doing.**
+
+- 🎈 Hobbies : Crocheting | Videogame player | Books | Cooking |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
